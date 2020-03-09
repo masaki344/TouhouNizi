@@ -9,13 +9,13 @@ public class fairyGenerator : MonoBehaviour
     //最初の妖精の数
     private int count = 0;
     //妖精の数
-    private int kaisuu = 9;
+    private int kaisuu = 1;
     //最初の時間
     private float delta = 0f;
     //時間間隔
     private float span = 1.0f;
     //ｘ座標
-    private float x = -4.0f;
+    private float x = 0f;
     //ｙ座標
     private float y = 4.0f;
 
