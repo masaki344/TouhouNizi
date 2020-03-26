@@ -3,6 +3,13 @@ guid: 3f8c3e4692798f6478a4f2bf2371b0ea
 TextureImporter:
   fileIDToRecycleName:
     21300000: faily_blue_0
+    21300002: faily_blue_1
+    21300004: faily_blue_2
+    21300006: faily_blue_3
+    21300008: faily_blue_3
+    21300010: faily_blue_5
+    21300012: faily_blue_6
+    21300014: faily_blue_4
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -113,12 +120,82 @@ TextureImporter:
       name: faily_blue_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 1
         y: 482
-        width: 26
+        width: 29
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: faily_blue_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: faily_blue_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 440
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: faily_blue_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 440
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: faily_blue_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: faily_blue_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 235
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

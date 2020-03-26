@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e3264b5788b7b146b5078fb48fc1380
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - reimuPrefab: {fileID: 1563017682114598, guid: 739998a1c3a0e5b48868ba596ba22b28,
+      type: 2}
+  - marisaPrefab: {fileID: 1952949714901298, guid: 2e0f0fca68d99604d8fb88fa4d0812ff,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
